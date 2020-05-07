@@ -1,0 +1,7 @@
+{
+  "carrier_service": {
+  "name": "Flash Courier DDX",
+  "callback_url": "https:\/\/pure-coast-44177.herokuapp.com/prices",
+  "service_discovery": true
+  }
+}
